@@ -79,7 +79,7 @@ function userQuestions(){
     //add table of contents here
     writeToFile(name, "## Table of Contents: \n");
     writeToFile(name, "1. [Description](#description) \n");
-    writeToFile(name, "2. [Install Instructions](#install-instructions:) \n");
+    writeToFile(name, "2. [Install Instructions](#install-instructions) \n");
     writeToFile(name, "3. [Usage Information](#usage-information) \n");
     writeToFile(name, "4. [Contribution Guidelines](#contribution-guidelines) \n");
     writeToFile(name, "5. [Test Instructions](#test-instructions) \n");
