@@ -13,6 +13,7 @@ A program that uses node to generate a readMe file based on user input
 Install npm packages using npm i
 ## Usage Information: 
 Run the index.js file in terminal using node index.js in the appropriate directory. 
+Video example: https://stoddardjd2.wistia.com/medias/26uf88bnp1
 ## Contribution Guidelines: 
 NA
 ## License: 
